@@ -1,0 +1,120 @@
+h1 {
+    font-family: Monospace;
+    font-size: 72px;
+    text-align: center;
+}
+
+article {
+    text-align: left;
+    margin-left: 74px;
+    margin-right: 74px;
+}
+
+section {
+    display: block;
+    font-family: Monospace;
+    color: #FF8000;
+    font-size: 24px;
+    width: 1220px;
+    text-align: center;
+    margin: auto;
+}
+
+#hfirst {
+    font-family: Monospace;
+    color: #D9AE00;
+    font-size: 40px;
+}
+
+#pfirst {
+    width: 681px;
+    font-family: Monospace;
+    color: #6D81B4;
+    font-size: 24px;
+}
+
+.dsecond {
+    margin-top: 101px;
+    margin-bottom: 101px;
+    display: inline-block;
+    text-align: center;
+    width: 1007px;
+    background: #FFCEBE;
+    padding: 64px;
+    border-bottom: 2px solid #8B2B2C;
+    border-right: 2px solid #8B2B2C;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+}
+
+#hsecond {
+    display: inline;
+    font-family: Monospace;
+    color: #F44E50;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+#psecond {
+    display: inline-block;
+    margin: auto;
+    width: 681px;
+    color: #8B2B2C;
+    font-family: Monospace;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#hthird {
+    color: #4716E4;
+    font-size: 40px;
+    width: 750px;
+    text-align: right;
+}
+
+.dthird {
+    display: inline-block;
+    width: 696px;
+    text-align: right;
+    font-family: Monospace;
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    padding: 24px;
+    margin-bottom: 30px;
+}
+
+#pthird {
+    color: #616161;
+    font-family: Monospace;
+    font-size: 24px;
+}
+
+.dfourth {
+    display: inline;
+    font-family: Monospace;
+}
+
+#imgdot {
+    vertical-align: middle;
+}
+
+#hfourth {
+    color: #414651;
+    font-size: 24px;
+}
+
+#pfourth {
+    color: #C27512;
+    font-size: 16px;
+    line-height: 24px;
+    width: 668px;
+}
+
+#img3 {
+    margin-top: 30px;
+}
+
+
+
+
+
